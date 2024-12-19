@@ -2,7 +2,7 @@
 
 This project contains the steps to create a splash screen for your Android application. Follow the steps below to create your splash screen.
 
-## Requirements
+## Requirements 
 
 - Android Studio
 - AndroidX Core Library
